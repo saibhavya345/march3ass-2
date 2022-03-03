@@ -1,0 +1,6 @@
+c=("maths","physics")
+d=("cs","english")
+print(c+d)
+
+output:
+('maths','physics','cs','english')
